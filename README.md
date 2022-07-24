@@ -2,13 +2,13 @@
 A static webpage demonstrating ability to closely follow a design comp
 
 
-<li>Text [Lorem Ipsum generator](https://loremipsum.io/ultimate-list-of-lorem-ipsum-generators/)</li>
+Text [Lorem Ipsum generator](https://loremipsum.io/ultimate-list-of-lorem-ipsum-generators/)
 
-<li>Images & Icons [flaticon](https://www.flaticon.com/), [unsplash](https://unsplash.com/)</li>
+Images & Icons [flaticon](https://www.flaticon.com/), [unsplash](https://unsplash.com/)
 
-<li>Fonts[Google Fonts](https://fonts.google.com/)</li>
+Fonts[Google Fonts](https://fonts.google.com/)
 
-<li>Color Palette [Material Design](https://www.materialpalette.com/)</li>
+Color Palette [Material Design](https://www.materialpalette.com/)
 
 
 
