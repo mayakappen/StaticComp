@@ -6,4 +6,5 @@ A static webpage demonstrating ability to closely follow a design comp
 <li>Fonts[Google Fonts](https://fonts.google.com/)</li>
 <li>Color Palette [Material Design](https://www.materialpalette.com/)</li>
 </ul>
+
 ![static-comp-challenge-2](https://user-images.githubusercontent.com/102932448/180666642-8f4aebc6-6ca4-41da-b0c6-b104c1668cdb.jpeg)
