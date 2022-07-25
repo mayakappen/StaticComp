@@ -32,6 +32,22 @@ body {
     padding: 14px 16px;
 }
 
+.playlists {
+    float: left;
+    display: block;
+    color: #00BCD4;
+    text-align: center;
+    padding: 14px 16px;
+}
+
+.personal-videos {
+    float: left;
+    display: block;
+    color: #00BCD4;
+    text-align: center;
+    padding: 14px 16px;
+}
+
 .grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
