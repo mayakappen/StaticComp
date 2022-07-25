@@ -1,4 +1,7 @@
 .header {
+    display: flex;
+    flex-direction: column;
+    align-content: flex-end;
     background-color: #212121;
     padding: 20px;
     height: 10vh;
@@ -16,25 +19,20 @@ body {
 }
 
 .user {
+    align-self: flex-end;
     font-size: 2vh;
-    float: right;
-    display: block;
-    text-align: start;
     color: #00BCD4;
     padding-right: 4vw;
-    padding-bottom: 5vh;
+    padding-bottom: -2vh;
 }
 
 .title {
-    float: right;
-    display: block;
-    text-align: start;
+    align-self:flex-end;
     font-size: 5vh;
     color: #FFFFFF;
+    padding-bottom: 3vh;
 }
 .topnav a {
-    float: left;
-    display: block;
     text-align: center;
     text-decoration: none;
     padding: 14px 16px;
@@ -42,24 +40,21 @@ body {
 }
 
 .shares  {
-    float: left;
-    display: block;
+   
     color: #FFFFFF;
     text-align: center;
     padding: 14px 16px;
 }
 
 .playlists {
-    float: left;
-    display: block;
+
     color: #00BCD4;
     text-align: center;
     padding: 14px 16px;
 }
 
 .personal-videos {
-    float: left;
-    display: block;
+  
     color: #00BCD4;
     text-align: center;
     padding: 14px 16px;
