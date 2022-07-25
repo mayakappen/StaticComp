@@ -55,13 +55,34 @@ body {
     align-items: center;
 }
 
-.grid>article {
+.card {
     border: 1px solid #ccc;
     box-shadow: 2px 2px 6px 0px rgba(0, 0, 0, 0.3);
+
 }
 
-.grid>article img {
+/* .grid>article img {
     max-width: 100%;
+    align-items:center;
+    aspect-ratio: 2/1;
+} */
+
+.profile {
+display: grid;
+grid-template-columns: 4fr 4fr;
+background: url("https://images.unsplash.com/photo-1625504615927-c14f4f309b63?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1365&q=80");
+background-size: cover;
+grid-gap: 20px;
+padding: 10px;
+justify-content: first baseline;
+align-content: space-between;
+align-self: center;
+align-items: start;
+}
+
+.view-display {
+margin-left: 5vw;
+margin-top: -1vh;
 }
 
 h2 {
@@ -71,5 +92,9 @@ h2 {
 
 .text {
     padding: 0 20px 20px;
+    align-items: center;
+    justify-content: first-baseline;
+    text-align:start;
+    word-wrap: break-word;
 }
 
